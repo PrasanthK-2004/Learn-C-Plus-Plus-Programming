@@ -9,11 +9,8 @@ PrasanthK-2004/Learn-C-Plus-Plus-Programming
 ## - [Pointers](Pointers.md)
 ## - [Class & Objects](Class%20%26%20Objects.md)
 ## - [Constructor & Destructor](Constructor%20%26%20Destructor.md)
-# Polymorphism
-## Compile Time Polymorphism
 ## - [Function Overloading](Polymorphism/Compile%20Time/Function%20Overloading.md)
 ## - [Operator Overloading](Polymorphism/Compile%20Time/Operator%20Overloading.md)
-## Run Time Polymorphism
 ## - [Virtual Functions](Polymorphism/Run%20Time/Virtual%20Functions.md)
 ## - [Inheritance](Inheritance.md)
 ## - [Encapsulation](Encapsulation.md)
