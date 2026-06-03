@@ -1,4 +1,4 @@
-# C++ Inheritance (All Types with Examples)
+# C++ Inheritance 
 
 Inheritance is an OOP feature where a **child class (derived class)** acquires properties and behavior of a **parent class (base class)**.
 
